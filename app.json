@@ -1,0 +1,16 @@
+ {
+   "expo": {
+    "name": "Conference",
+    "icon": "./assets/icon.png",
+    "version": "1.0.0",
+    "slug": "Conference",
+    "ios": {
+      "bundleIdentifier": "com.cloudvendor.conference",
+      "buildNumber": "1.0.0"
+    },
+    "android": {
+      "package": "com.cloudvendor.conference",
+      "versionCode": 1
+    }
+   }
+ }
